@@ -48,6 +48,11 @@
   }
 }
 
+#logo {
+  font-family: 'Great Vibes', cursive;
+  font-size: 24px;
+}
+
 *,
 *::after,
 *::before {
